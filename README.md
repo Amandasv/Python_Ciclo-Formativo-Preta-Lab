@@ -13,7 +13,7 @@ Neste repositório, você encontrará todos os materiais e atividades necessári
 * **Intervalo (10 min):** Um pequeno descanso para se conectar!
 * **Exercícios (45 min):** Mãos à obra! Vamos praticar os conhecimentos adquiridos.
 * **Intervalo (10 min):** Mais um momento para relaxar.
-* **Projeto Final:** Apresentação do projeto final e início da sua implementação.
+* **Projeto Final (45 min):** Apresentação do projeto final e início da sua implementação.
 
 ### Começando
 1. **Acesso o Google Colab** e importe esse repositório do github.
